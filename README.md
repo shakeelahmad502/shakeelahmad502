@@ -9,7 +9,7 @@ MSPT / MSc · PPDPT · BSPT | Jouf University, Saudi Arabia
 
 ## About me
 
-I am a physiotherapist, lecturer and researcher with more than 20 years of combined clinical and academic experience. My work focuses on musculoskeletal rehabilitation, orthopedic manual therapy, clinical reasoning and evidence-based physiotherapy education.
+I am a physiotherapist, lecturer and researcher with more than 20 years of combined clinical and academic experience. My work brings together rehabilitation sciences, clinical practice, higher education and research, with particular experience in musculoskeletal rehabilitation and manual therapy.
 
 I serve as a Lecturer in the Department of Physical Therapy and Health Rehabilitation at Jouf University. Previously, I worked as an Assistant Professor at Riphah International University and in clinical and academic roles at Ziauddin University and its hospital.
 
@@ -18,7 +18,7 @@ I serve as a Lecturer in the Department of Physical Therapy and Health Rehabilit
 - Musculoskeletal pain and functional outcomes, particularly low back pain, cervical radiculopathy, shoulder disorders and knee osteoarthritis.
 - Manual therapy and rehabilitation interventions, including Mulligan, Maitland, Cyriax and Kaltenborn approaches.
 - Clinical education, curriculum quality and postgraduate research supervision.
-- Emerging applications of generative AI in rehabilitation research and clinical education.
+- Evidence-based practice, patient education and the use of technology to support learning and research.
 
 ## Academic background
 
@@ -44,14 +44,12 @@ I serve as a Lecturer in the Department of Physical Therapy and Health Rehabilit
 
 Full publication details are available through my research profiles above.
 
-## Exploring AI in rehabilitation
+## Professional interests
 
-I am interested in developing educational and research prototypes that connect clinical expertise with practical AI tools. Areas I would like to explore include case-based musculoskeletal learning, evaluation of AI clinical reasoning, and reproducible assessment of AI-generated rehabilitation information.
-
-These are developing research interests; clinical validation and expert review would be essential parts of any future project.
+I am interested in opportunities that bring together clinical expertise, education and research. My interests include collaborative studies, teaching and mentoring, professional development, and practical tools that support evidence-based healthcare.
 
 ## Collaboration
 
-I welcome academic collaboration in musculoskeletal rehabilitation, manual therapy, physiotherapy education and responsible evaluation of AI in rehabilitation. You can connect with me through LinkedIn or ResearchGate above.
+I welcome research collaborations, academic and teaching opportunities, clinical education initiatives, and interdisciplinary projects in health and rehabilitation. You can connect with me through LinkedIn or ResearchGate above.
 
 **Languages:** English, Urdu, Pashto and Arabic.
